@@ -7,7 +7,7 @@ const respostas = [
 
 // Função para consultar o tempo e clima
 async function consultarTempo(cidade) {
-    const apiKey = '99ed92f184a01a0f8c5fcacd5ffb46a6';  // Coloque sua chave de API da OpenWeatherMap aqui
+    const apiKey = '';  // Coloque sua chave de API da OpenWeatherMap aqui
     const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${cidade}&appid=${apiKey}&units=metric`;
 
     try {
