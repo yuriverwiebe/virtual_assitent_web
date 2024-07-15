@@ -36,7 +36,7 @@ O projeto Assitente vitual foi desenvolvido com a ideia de ajudar pessoas com di
 - Interação por Texto: Os usuários podem digitar perguntas ou comandos no campo de entrada de texto.
 - Respostas Automatizadas: O assistente virtual responde automaticamente com base nas entradas dos usuários.
 - Interface de Usuário: A interface é simples e intuitiva, com uma área de chat para mostrar as mensagens e um campo de entrada para enviar novas mensagens.
--
+  
 - Acesse o projeto [AQUI](https://yuriverwiebe.github.io/virtual_assitent_web)
 
 ## 📝 Licença
